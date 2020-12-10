@@ -1,4 +1,4 @@
-#part 1
+#AoC_part 1
 with open('nine') as file:
     data = file.readlines()
     data = [ int(line.strip()) for line in data]
